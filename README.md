@@ -1,1 +1,3 @@
 # Assignment-EM
+
+"Ice cream Sales Data Analysis" is a comprehensive analysis project that explores the interplay between ice cream sales and economic indicators for 80 countries from 2000 to 2019. The study involves data preprocessing, conversion to a standardized format, and the creation of meaningful variables. By combining ice cream sales data with macroeconomic indicators, the project aims to uncover insights into consumption patterns, calculate per capita variables, and visualize relationships between ice cream volume and GDP per capita. Additionally, a function is implemented to assess missing data percentages for each country and indicator.
